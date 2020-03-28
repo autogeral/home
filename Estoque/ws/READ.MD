@@ -3,5 +3,5 @@ Web service REST para a parte logica tanto para o DBF, quanto para o coletor, co
 As classes referentes a tarefa tem o prefixo TarefaNota
 - TarefaNota, TarefaNotaItem, TarefaNotaEstoquista, TarefaNotaStatus(enum), TarefaNotaItemStatus(enum)
 
-Codigo fonte disponivel no google source em
-https://source.cloud.google.com/erpj-ws/ws
+**Codigo fonte disponivel no google source**
+[google source] (https://source.cloud.google.com/erpj-ws/ws)

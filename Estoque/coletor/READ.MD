@@ -3,5 +3,4 @@ Todas as melhorias que forem feitas para o coletor, serão centralizadas neste a
 Funções já prontas - Inventário
 Função a ser implementada - Tarefa de guarda
 
-Codigo fonte disponivel no google source em
-https://source.cloud.google.com/erpj-ws/coletor
+**Codigo fonte disponivel no [google source] (https://source.cloud.google.com/erpj-ws/coletor)**
